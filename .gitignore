@@ -1,0 +1,8 @@
+# IntelliJ Files
+.idea/
+GameOfLife.iml
+
+# Output Directories
+site/
+target/
+
