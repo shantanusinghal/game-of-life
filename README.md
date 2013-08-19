@@ -9,7 +9,7 @@ To build the project, execute the following Maven command:
 
     mvn clean package
     
-This will create a runnable JAR in target directory (eg. target/GameOfLife-1.0-SUPER.jar) that contains all dependencies.
+This will create a runnable JAR suffixed with SUPER in target directory (eg. target/GameOfLife-1.0-SUPER.jar) that contains all dependencies.
 
 # How to execute
 
