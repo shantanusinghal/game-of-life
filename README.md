@@ -22,7 +22,8 @@ To execute the JAR from command line:
 ##Required
 
     --file=FILE
-    Specify the starting state of the grid in a file. 1s and 0s denote a live and a dead cell respectively.
+    Specify the starting state of the grid in a file. 
+    1s and 0s denote a live and a dead cell respectively.
     eg.
     0 0 0 0 0
     0 0 0 0 0
